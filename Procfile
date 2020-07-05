@@ -1,1 +1,1 @@
-worker: python rainbow.py
+worker: python bot.py
